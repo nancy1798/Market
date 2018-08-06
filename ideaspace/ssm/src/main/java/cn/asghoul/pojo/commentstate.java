@@ -4,7 +4,6 @@ import java.math.BigInteger;
 
 public class commentstate {
     /**
-     * 
      * */
     private BigInteger orderId;
     private int commentsState;
